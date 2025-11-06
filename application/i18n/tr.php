@@ -1,0 +1,406 @@
+<?php
+
+return array(
+
+    'Balance after'=>'Баланс после',
+    'Balance before'=>'Баланс до',
+    'Bets'=>'Ставки',
+    'Bonus coeff (Persent)'=>'Бонусный коеф. (Процент)',
+    'Bonus pay period (Days)'=>'Период бонусной выплаты (Дни)',
+    'Currency'=>'Валюта',
+    'Diff last bet (Hours)'=>'Время с последней ставки (часы)',
+    'Email'=>'Email',
+    'Enable bonuses'=>'Включить бонусы',
+    'Games statistic'=>'Статистика игр',
+    'ID'=>'ID',
+    'Lines'=>'Линии',
+    'Offices'=>'Офисы',
+    'Persons'=>'Персонал',
+    'No'=>'Нет',
+    'Yes'=>'Да',
+    'Secret key (not required)'=>'Секретный ключ (не обязательно)',
+    'RTP'=>'RTP (%)',
+    'Secret key'=>'Секретный ключ',
+    'Game statistic'=>'Статистика игр',
+    'Date from'=>'Дата с',
+    'Date to'=>'Дата по',
+    'Office'=>'Клуб',
+    'Test offices'=>'Тестовые клуюы',
+    'Game'=>'Игра',
+    'Find'=>'Поиск',
+    'Clear'=>'Очистить',
+    'Clear'=>'Очистить',
+    'Brand'=>'Бренд',
+    'Date'=>'Дата',
+    'Normal'=>'Обычная',
+    'Double'=>'Удвоения',
+    'In'=>'In',
+    'Out'=>'Out',
+    'Win'=>'Выигрыш',
+    'Count'=>'Количество',
+    'Visible name'=>'Видимое имя',
+    'Person'=>'Персонал',
+    'Enable telegram when login'=>'Запрашивать код в телеграм при входе',
+    'Name'=>'Имя',
+    'Login'=>'Логин',
+    'Role'=>'Роль',
+
+    'New Office'=>'Новый клуб',
+    'Balance report'=>'Отчет по балансам',
+    'Manuals'=>'Инструкции',
+    'Office report'=>'Отчет по клубам',
+    'Who'=>'Кто',
+    'Object'=>'Объект',
+    'Amount'=>'Сумма',
+    'Comment'=>'Комментарий',
+    'Only my'=>'Только мои',
+
+    'Success!'=>'Успешно!',
+    'Your message has been sent.'=>'Выше сообщение было отправлено.',
+
+
+    'Name'=>'Имя',
+    'Subject'=>'Тема',
+    'Message'=>'Сообщение',
+    'Send Message'=>'Отправить сообщение',
+    'Our Contacts'=>'Наши контакты',
+    'Contact Form'=>'Свяжитесь с нами',
+    'From'=>'с',
+    'To'=>'по',
+    'All'=>'Все',
+    'Replenish'=>'Пополнить',
+    'Take off'=>'Забрать',
+    'Total'=>'Итого',
+    'Amount'=>'Баланс',
+    'Password'=>'Пароль',
+    'Is test'=>'Тестовые',
+
+
+    //game client
+    'Please place your bet' => 'Lütfen Bahislerinizi koyun',
+    'Good luck' => 'Bol Şanslar',
+    'Line' => 'Çizgi',
+    'Scatter' => 'Scatter',
+    'Please gamble or take win' => 'lütfen ikiye katlayın veya kazancınızı alın',
+    'Select cards to hold' => 'Tutulacak kartları seçin',
+    'Please select symbol' => 'Lütfen sembol seçin',
+    'free games left' => 'ücretsiz oyunlar kaldı',
+    'not enough credits' => 'yetersiz kredi',
+    'Play sounds?' => 'Oyun sesleri?',
+    'Yes' => 'Evet',
+    'No' => 'Hayır',
+    'BALANCE' => 'HESAP',
+    'LAST WIN' => 'SON KAZANIM',
+    'gamble_button' => 'İkiye'."\n".'katlamak',
+    'auto_button' => 'OTO',
+    'bet_button' => 'BAHİS',
+    'total_bet' => 'BAHİS',
+    'start_button' => 'BAŞLAT',
+    'STOP ALL' => 'Hepsini durdur',
+    'COLLECT' => 'ALMAK',
+    'INFO' => 'INFO',
+    'lines' => 'Çizgiler',
+    'lines2' => 'Çizgiler',
+    'Fixed' => 'Sabit',
+    'STOP'."\n".'AUTO' => 'Otomatik'."\n".'oyunu'."\n".'durdur',
+    'CLOSE'. "\n" .'INFO' => 'İnfoyu'."\n".'kapat',
+    'next_button' => 'Sonraki',
+    'Current WIN' => 'Mevcut kazanç',
+    'Gamble X2 to WIN' => 'İkiye katladıktan sonraki kazanç',
+    'Gamble X4 to WIN' => 'Dörtlu sonraki kazanç',
+    'X2 to WIN' => 'Kazanç X2',
+    'X4 to WIN' => 'Kazanç X4',
+    'Statistics' => 'İstatistik',
+    'Substitutes for all' . "\n" . 'symbols except ' . 'scatters' . "\n" . 'on the same reel' => 'Aynı makaradaki
+dağılımlar dışındaki tüm
+sembollerin yerine kullanılır',
+    'gamble_rules' => "\n".'Kazançları ikiye katlamak için ÇİFT düğmesine tıklayın,
+ardından KIRMIZI, SİYAH düğmelere basın veya MAST\'ı seçin.
+Kırmızı / Siyah  seçimi doğruysa, kumar miktarı iki katına çıkar (x2).
+Kard Süit  seçimi doğruysa, kumar miktarı dört katına çıkar (x4).
+Seçim doğru değilse, kumar miktarı kaybedilir ve oyun biter.
+',
+        'GAMBLE' => 'Çiftlemek',
+        'NEXT' => 'Sonraki',
+    'keno_rules'=>'Oyuncu 1\'den 80\'e kadar sayıları seçerek bahis yapar. Oyuncu 1\'den 10\'a kadar sayılar arasından seçim yapabilir. Oyuncu bahis yaptıktan sonra rastgele 20 sayı çekilir. Kazanç, oyuncunun seçtiği sayılara ve çekilen sayılar ile seçilen sayılar arasındaki eşleşmelere bağlı olarak ödeme tablosuna göre hesaplanır. Arıza tüm ödemeleri ve oyunları geçersiz kılar.',
+        'poker_rules' => 'Bu, bir kart destesiyle (52 kart) oynanan video pokeridir. Oyun iki turdan oluşur. Beş kart dağıtılır. İlk turun sonunda, oyuncu hangi kartları tutacağını seçebilir. İlk turdan sonra oyuncudan elinde en iyi olduğu kartları seçmesi istenir. Bu tür kartlar otomatik olarak tutulur. Oyuncu bu kartların seçimini kaldırabilir ve istediklerini farklı olarak işaretleyebilir. Kalan kartlar "bertaraf edilir". İkinci tur, çıkarılacak kartlar seçildikten sonra başlar. Geri dönüşümlü kartlar destedeki diğer kartlarla değiştirilir. Kazanan bir kombinasyon varsa, ikinci turun sonunda oyuncu bu miktarı kazanır. Arıza, tüm ödemeleri ve oynamaları geçersiz kılar
+',
+        'Substitutes for all' . "\n" . 'symbols except' ."\n" . 'scatters'=>'Dağılımlar hariç
+tüm sembollerin
+yerine geçer',
+        'Substitutes' . "\n" . 'for all symbols except'=>'Dağılımlar hariç
+tüm sembollerin yerine',
+        'Doubles win when substituting'=>'        İkame yaparken iki kat kazanır',
+        'All pays are left to right on adjacent reels, on selected lines, beginning with the leftmost reel, except scatters. Scatter wins are added to the payline wins. Highest payline add/or scatter wins only paid. Line wins are multiplied by the bet value on the winning line. Scatter wins are multiplied by the total bet value. Malfunction voids all pays and plays.'=>'Tüm ödemeler, bitişik makaralarda, seçilen satırlarda, en soldaki makaradan başlayarak, saçılma hariç bırakılır. Scatter kazançları ödeme çizgisi kazançlarına eklenir. En yüksek ödeme hattı ekleme / veya dağılım kazançları sadece payed kazanır. Arıza, tüm ödemeleri ve oynamaları geçersiz kılar',
+        'paylines_and_rules'=>'ödeme hatları ve kurallar',
+        'Substitutes for all' . "\n" . 'symbols except ' . 'scatters' . "\n" . 'on the same reel' => 'Aynı makaradaki dağılımlar' . "\n" . 'dışındaki tüm sembollerin' ."\n". 'yerine kullanılır',
+        'Substitutes for all' . "\n" . 'symbols on the same reel' . "\n" . ' except             and    ' => 'Aynı makaradaki tüm' ."\n". '           karakterleri'."\n".'değiştirir             ve                ',
+
+        'Substitutes' . "\n" . 'for all symbols' . "\n" . 'on the same reel' . "\n". "\n" . ' except         and               '=>
+                                                'Aynı' ."\n". 'makaradaki' ."\n". 'tümkarakterleri' ."\n"."\n". 'değiştirir             ve                      ',
+
+        'fg_won'=>'{%n} Bonus'."\n".'oyunlardan kazanılan',
+        'fg_won_more'=>'{%n} Bonus oyunlardan'."\n".'daha kazanılan',
+        'substitutes_single'=>'Tüm sembollerin yerinde',
+        'fg'=>'Bonuslu oyun',
+        'fg2'=>'Bonuslu oyun',
+        'won'=>'Kazandıgınız',
+        'substituting'=>'İkame',
+        '20 free games'."\n".'with'=>'20 Bonuslu'."\n".'Oyun',
+        'During free games, payouts are multiplied by x'=>'Ücretsiz oyunlar sırasında ödemeler x ile çarpılır',
+        'x2 when substitutes'=>'x2 oyuncu değişikliği yapıldığında',
+        'Stretches on all neighboring positions' => 'Tüm komşu pozisyonlarda esneme',
+        'Stretches on all neighboring positions.' . "\n" . 'Substitutes for all symbols except        ' => 'Tüm komşu pozisyonlara' . "\n" . 'uzanır. Aşağıdakiler dışındaki tüm' . "\n" . 'sembollerin yerine geçer:     ',
+        '10 to 12 scatters' . "\n" . 'trigger freegames'=>'10 ila 12 scatter' . "\n" . 'ücretsiz oyunları tetikler',
+        'All pays are left to right on adjacent reels, on selected lines, beginning with the leftmost reel. Highest payline wins only paid. Line wins are multiplied by the bet value on the winning line. Malfunction voids all pays and plays.'=>'Tüm ödemeler, en soldaki makaradan başlayarak, seçilen satırlardaki bitişik makaralarda soldan sağa doğru yapılır. En yüksek ödeme hattı kazançları yalnızca ödenir. Hat kazançları, kazanan hat üzerindeki bahis değeriyle çarpılır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+
+        'SUBTITUTES for ALL symbols except scatters'=>'Scatter Hariç, Tüm sembolleri değiştiriyor',
+        'One or more subtituting in win combination'."\n".'DOUBLES the prize.'=>'Kazanma kombinasyonunda bir veya daha fazla'."\n".'altyazı ödülü ikiye katlar',
+        '3 or more scatters on the screen trigger'."\n".'15 free Games.'=>'Ekranda 3 yada daha fazla Scatter Yakaladığınız'."\n".'zaman 15 Ücretsiz oyun kazanıyorsunuz',
+
+        'During free games prizes are multiplied by 3.'."\n".
+        'Free Games can be won again during the Free Games.'."\n".
+        'Free games are played at trigger bet and lines.' =>            'Ücretsiz oyunlar sırasında ödüller 3 ile çarpılır'."\n".
+                                                                        'Ücretsiz Oyunları, Ücretsiz Oyunlar sırasında'."\n".'tekrar kazanılabilir.'."\n".
+                                                                        'Ücretsiz oyunlar tetik bahis ve çizgilerinde oynanır',
+
+        'Hold for'."\n".'autospin'=>'Otomatik oynatma'."\n".'için basılı tutun',
+        'MENU'=>'Menü',
+        'CLOSE'."\n".'MENU'=>'Menüyu'."\n".'Kapat',
+        '15 of a kind from'=>'     15 Bir Çeşit',
+        '12 of a kind from'=>'     12 Bir Çeşit',
+        '9 of a kind from'=>'     9 Bir Çeşit',
+        'or'=>'Yada',
+        'on all reels,'=>'Tüm makaralarda',
+        'multiplies the TOTAL GAME WIN by'=>'           Toplam Oyun Kazancınızı',
+        'on 1st, 2nd, 3rd and 4th reels,'=>'1inci , 2nci , 3üncü , ve 4üncü Makaralarda',
+        'on 1st, 2nd and 3rd reels,'=>'1inci , 2nci , ve 3üncü Makaralarda',
+        'Congratulations! You WIN!'."\n".'slow network...'."\n".'please, wait'=>'Tebrikler!'."\n".'Sen kazandın!'."\n".'yavaş ağ'."\n".'lütfen bekle',
+        'Last cards'=>'kart geçmişi',
+        'Gamble to WIN'=>'İkiye katladıktan sonraki kazanç',
+
+        'jpinfo' => '7 şanslı kart çekin ve poker el kombinasyonunuza göre sıralanan dört ikramiyeden birini kazanın. Floş royal tüm jackpotları birlikte kazandırır. Jackpot sayıları yanıp sönerken, herhangi bir bahis jackpot kazanımını tetikleyebilir.',
+        'fs_header'=>'Tebrikler',
+        'fs_text1'=>'Topla',
+        'fs_rules'=>'Günlük Döndürme Sayısı (DS), bir önceki tahakkuk anından itibaren AGT yazılım oyunlarında, poker ve keno oyunları dışındaki tüm bahis fonlarının toplamı olarak hesaplanır, ancak 10 günü geçmemek üzere,
+            eksi aynı dönem için tüm kazançların toplamının DS katsayısı ile çarpımı.
+
+            Yeni oyuncular için DS katsayısı %4,5\'tir. Bir oyuncu o gün poker ve keno oyunları dışındaki oyunlara bahis yaparsa, DS katsayısı her gün %0,5 artar
+            ve oyuncu poker ve keno oyunları dışında bahis yapmazsa %1 azalır.
+            DS katsayısı %4,5\'ten az ve %10\'dan fazla olamaz.
+
+            Son bahsin üzerinden 8 saat geçmişse, DS oyuna giriş anında kredilendirilir.
+            Gün, UTC saat diliminde kabul edilir.
+
+            DS kabul edildikten sonra 20 dakika içinde oynanmalıdır.',
+        'total_win'=>'TOPLAM KAZANÇ',
+
+        //deepl
+        'Make your first bet to start receive Daily Spins cashback!' => 'Daily Spins nakit iadesi almaya başlamak için ilk bahsinizi yapın!',
+        'You made bets for %d credits'=>'Bahisleri %d kredi için yaptınız',
+        'No.'=>'#',
+        'Change'=>'Değişim',
+        'Value'=>'Değer',
+        'Time left'=>'Kalan süre',
+        'Status'=>'Durum',
+        'Type'=>'Tip',
+        'In'=>'In',
+        'Out'=>'Out',
+        'Coef.'=>'Kats.',
+        'Balance'=>'Hesap',
+        'Lines'=>'Çizgiler',
+        'Expiration'=>'Sona erme',
+        //moon
+
+        'You can choose animation later inside menu'=>'Animasyonu daha sonra menü içinden seçebilirsiniz',
+        'Make your bet before the flight begins'=>'Bahsinizi uçuş başlamadan önce yapın',
+        'Take a risk and wait for odds to go high'=>'Risk alın ve oranların yükselmesini bekleyin',
+        'Cash out before it flies away'=>'Uçup gitmeden nakde çevirin',
+
+        'You have an option to place two or three bets on the same flight by clicking the plus button.'=>'Artı düğmesine tıklayarak aynı uçuşa iki veya üç bahis koyma seçeneğiniz vardır.',
+        'Each bet can be set manually or use auto for a pre-setted bet and collect multiplier.'=>'Her bahis manuel olarak ayarlanabilir veya önceden ayarlanmış bir bahis ve toplama çarpanı için otomatik kullanılabilir.',
+        '"Auto bet" and "auto cash out out" functions activate after marking when a new round start.'=>'“Otomatik bahis” ve ‘otomatik nakit çıkışı’ işlevleri, yeni bir tur başladığında işaretlendikten sonra etkinleştirilir.',
+        'If the internet connection is interrupted when the bet is active, the game will automatically cash out with the current multiplier, and the winning amount will be added to your balance.'=>'Bahis aktifken internet bağlantısı kesilirse, oyun mevcut çarpanla otomatik olarak nakde çevrilecek ve kazanan miktar bakiyenize eklenecektir.',
+        'The winnings are rounded down to 2 digits after the point.'=>'Kazançlar noktadan sonra 2 haneye yuvarlanır.',
+        'The maximum winnings is {%n}. The game will will be automatically cash out when this value is reached.'=>'Maksimum kazanç {%n}\'dir. Bu değere ulaşıldığında oyun otomatik olarak nakde çevrilecektir.',
+        'The minimum stake is {%n}.'=>'Minimum bahis miktarı {%n}\'dir.',
+        'The maximum stake is {%n}.'=>'Maksimum bahis miktarı {%n}\'dir.',
+        'Malfunction voids all pays and plays.'=>'Arıza tüm ödemeleri ve oyunları geçersiz kılar.',
+
+        'How to play' => 'Nasıl oynanır',
+        'Animation' => 'Animasyon',
+        'Music' => 'Müzik',
+        'Off' => 'Off',
+        'Sounds' => 'Sesler',
+        'Close game' => 'Yakın oyun',
+        'All bets' => 'Tüm bahisler',
+        'My bets' => 'Bahislerim',
+        'User' => 'Kullanıcı',
+        'Bet' => 'Bahis',
+        'multiplier' => 'çarpan',
+        'Cash out' => 'Nakit çıkış',
+        'Auto cash out' => 'Otomatik nakit çıkışı',
+        'You won' => 'Sen kazandın.',
+        'Top wins' => 'En çok kazananlar',
+        'Top rates' => 'En yüksek oranlar',
+        'Day' => 'Gün',
+        'Month' => 'Ay',
+        'Year' => 'Yıl',
+        'Date' => 'Tarih',
+        'Win' => 'Kazan',
+        'Rate' => 'Oran',
+        'Send' => 'Gönder',
+        'Message text' => 'Mesaj metni',
+        'Cancel bet'=>'Bahis iptal',
+        'Wait'=>'Bekle',
+        'Start auto bet'=>'Otomatik bahsi başlat',
+        'Cancel bet and stop auto bet'=>'Bahsi iptal et ve otomatik bahsi durdur',
+        'Stop auto bet'=>'Oto bahsi durdur',
+        'Bet now'=>'Şimdi bahse girin',
+        'Wait for next round'=>'Bir sonraki turu bekleyin',
+        'Switch off auto cash first'=>'Önce otomatik parayı kapatın',
+        'Cancel bet or take win'=>'Bahsi iptal et ya da kazan',
+        'roshambo_rules'=>'Oyunun üç olası sonucu vardır: beraberlik, galibiyet veya mağlubiyet. Taş oynamaya karar veren bir oyuncu makas seçen başka bir oyuncuyu yenecek, ancak kağıt oynayan bir oyuncuya kaybedecektir; kağıt oynayan bir oyuncu makas oynayan bir oyuncuya kaybedecektir. Eğer oyuncular aynı formu seçerse ya da kimsenin yenemediği bir oyuncu olursa, oyunun sonucu berabere olur. Sadece bir oyuncu kazanırsa, bu mutlak bir galibiyettir.',
+        'shuffle_rules'=>'Oyun alanı Van Gogh\'un 16 parçaya bölünmüş dört resminden oluşmaktadır. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır',
+        'shuffle_rules1'=>'Oyun alanı, Hokusai\'nin 16 adına kesilmiş dört resim. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır',
+        'shuffle_rules2'=>'Oyun alanı Klimt tarafından 16 adet kesilmiş beş resim. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır',
+        'shuffle_rules3'=>'Oyun alanı Munch tarafından dört resim 9 adet. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır',
+        'shuffle_rules4'=>'Oyun alanı Vermeer tarafından üç resim 9 adet. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır',
+
+        'shuffle_rules5'=>'Oyun alanı Claude Monet\'nin 4 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules6'=>'Oyun alanı Peter Paul Rubens\'in 4 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules7'=>'Oyun alanı Pierre Auguste Renoir\'ın 6 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules8'=>'Oyun alanı Rembrandt van Rijn\'in 6 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules9'=>'Oyun alanı Michelangelo Buonarroti\'nin 4 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules10'=>'Oyun alanı, Édouard Manet\'nin 12 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules11'=>'Oyun alanı Hieronymus Bosch\'un 9 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules12'=>'Oyun alanı Paul Cézanne\'ın 12 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+        'shuffle_rules13'=>'Oyun alanı Paul Gauguin\'in 6 parçaya bölünmüş üç resminden oluşuyor. Kazanç, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza, tüm ödemeleri ve oyunları geçersiz kılar.',
+
+        //ematrix
+        'TokenNotFound'=>'Oturum zaman aşımına uğradı. Oynamaya devam etmek için lütfen oyunu yeniden açın',
+        'CasinoLossLimit'=>'Bu bahis limitinizi aşacaktır. Lütfen daha küçük bir miktar deneyin veya bahis limitinizi değiştirin',
+
+    'promo_start'=>'Başlangıç',
+    'promo_end'=>'Son',
+    'promo_everyday'=>'Her gün',
+    'promo_black_friday'=>'Promosyon "Kara Cuma"',
+    'promo_maxrefund'=>'Maksimum geri ödeme',
+    'promo_title'=>'Terfi',
+    'promo_end_title'=>'Promosyon bitti',
+    'promo_summary'=>'Geri ödeme tutarınız:',
+    'promo_rule'=>'Promosyon, ToTheMoon\'un son turu hariç tüm oyunları ve tüm video poker oyunlarını içerir. Turnuva sırasında kaybedilen tüm paralar iade edilir ancak maksimum kazançtan fazla olamaz. Kazançları alabilmek için herhangi bir site-domain oyununa (ToTheMoon ve poker oyunları hariç) :date1 tarihinden sonra, ancak en geç :date2 tarihine kadar girmeniz gerekmektedir.',
+
+    'fg3'=>'Bonus oyununun başlangıcı',
+    'fg_stop_rule'=>'Bonus oyunu, 1. ve 5. makaralarda WASTED sembolü göründüğünde sona erer',
+    'buy_bonus'=>'bonus satın al',
+    'buy_bonus_game'=>'Bonus oyunu satın al',
+    'price'=>'Fiyat',
+
+    'pedro_rules'=>'Tüm ödemeler dört aynı sembol göründüğünde gerçekleşir. Bir arıza tüm oyun ödemelerini geçersiz kılar.',
+
+    'Total free spins'=>'Toplam ücretsiz döndürmeler',
+
+    'Every day'=>'Her gün',
+    'Every Monday'=>'Her pazartesi',
+    'Every Friday,Saturday,Sunday'=>'Her Cuma, Cumartesi, Pazar',
+
+    'fg_start_rule'=>'Bonus oyunu, 1. ve 5. makaralarda SCATTER sembolü göründüğünde başlar',
+    'start_fg'=>'Bonus oyunu başlat',
+    'end_fg'=>'Bonus oyununu bitir',
+
+    'Ace, King, Queen, Jack and Ten all the same suit'     => 'As, Papaz, Kız, Vale ve On hepsi aynı renkten',
+    'All four cards of the Aces'                           => 'Asların dört kartının tamamı',
+    'Any five card sequence in the same suit'              => 'Aynı renkten herhangi bir beş kart dizisi',
+    'All four cards of the Kings, Queens or Jacks'         => 'Papaz, Kız veya Vale\'nin dört kartının tamamı',
+    'All four cards of the same rank of Tens or lower'     => 'Onlar veya daha düşük aynı değerdeki dört kartın tamamı',
+    'Three of a kind combined with a pair'                 => 'Bir çiftle birleştirilmiş üçlü',
+    'Any five cards of the same suit, but not in sequence' => 'Aynı renkten herhangi beş kart, ancak sıralı değil',
+    'Five cards in sequence, but not in the same suit'     => 'Sıralı ancak aynı renkten olmayan beş kart',
+    'Three cards of the same rank'                         => 'Aynı değerden üç kart',
+    'Two separate pairs'                                   => 'İki ayrı çift',
+    'Two cards of the same rank of Jacks or better'        => 'Aynı renkten Vale veya daha iyi iki kart',
+    'All four cards of the same rank'                      => 'Aynı değerden dört kartın tamamı',
+    'Hand rankings'                                        => 'El sıralamaları',
+    'hands'                                                => 'eller',
+
+    'Pay table'=>'Ödeme masası',
+    'Clear'  => 'Temizlemek',
+    'Random' => 'Rastgele',
+    'Odd'    => 'Garip',
+    'Even'   => 'Eşit',
+    'Top'    => 'Tepe',
+    'Middle' => 'Orta',
+    'Bottom' => 'Alt',
+    'Payout' => 'Ödeme',
+    'Hits'   => 'Vuruşlar',
+
+    'trigger_fg_with_count' => 'Tetikleyici {%n} Ücretsiz Oyunlar',
+
+    'shuffle_rules5' => 'Oyun alanı Claude Monet\'in 4 adette kesilmiş beş resim. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza tüm maaşları ve oyunları geçersiz kılar.',
+
+    'shuffle_rules11' => 'Oyun alanı Hieronymus Bosch\'un 9 parçaya ayrıldığı iki resim. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza tüm maaşları ve oyunları geçersiz kılar.',
+
+    'shuffle_rules12' => 'Oyun alanı Paul Cézanne tarafından dört resim 12 parçaya ayrıldı. Kazanma, oyun alanındaki bir resmin parça sayısına bağlıdır. Arıza tüm maaşları ve oyunları geçersiz kılar.',
+
+    'maxlines_rules' => 'Soldan sağa herhangi bir boyuttaki bitişik sembollerin kombinasyonları için kazançlar oluşur. 1 ila 6, 2 ila 7 sembol içerebilir. Toplamda, kazanmanın maksimum yolu 117649\'dur. Farklı bahis yollarında eşleşen kazançlar özetlenir. Ödemeler ödemeye göre yapılır. Kazanmalar, dağılım sembolleri hariç, ödeme başına bahis ile çarpılır. Birkaç kazanan kombinasyon aynı ücretle görünür, sadece en yüksek kombinasyon ödenir.',
+
+    'anywhere_10_fg' => 'Ekranın herhangi bir yerinde 10 ücretsiz oyunu tetikler',
+
+    'substitutes_shiningstars' => 'İkame
+Tüm semboller için
+Aynı makarada
+ Green Star hariç
+ ve Violet Star',
+
+    'substitutes_applesshine' => 'İkame
+Tüm semboller için
+Aynı makarada
+ Sarı Elma hariç
+ Ve yeşil elma',
+
+    'or_more' => 'veya daha fazla',
+
+    'maxlines_rules' => 'Soldan sağa herhangi bir boyuttaki bitişik sembollerin kombinasyonları için kazançlar oluşur. 1 ila 6, 2 ila 7 sembol içerebilir. Toplamda, kazanmanın maksimum yolu 117649\'dur. Farklı bahis yollarında eşleşen kazançlar özetlenir. Ödemeler ödemeye göre yapılır. Kazanmalar, dağılım sembolleri hariç, ödeme başına bahis ile çarpılır. Birkaç kazanan kombinasyon aynı ücretle görünür, sadece en yüksek kombinasyon ödenir. Arıza tüm maaşları ve oyunları geçersiz kılar.',
+
+    'aero_rule_title' => 'Nasıl Oynanır',
+    'aero_rule1' => 'Kalkıştan önce bahis;',
+    'aero_rule2' => 'Uçağınız kalkarken ve kazançlarınız arttıkça izleyin;',
+    'aero_rule3' => 'Uçak uçmadan ve x kat daha fazla kazanmadan önce nakit para!',
+    'aero_rule4' => 'Ancak unutmayın, uçak uçmadan önce para kazanmak için zamanınız yoksa, bahse girer. Aerobet saf heyecan! Risk ve kazan. Hepsi senin elinizde!',
+    'aero_rule5' => 'Kazanma çarpanı 1x\'de başlar ve uçak kalktıkça giderek daha fazla büyür.',
+    'aero_rule6' => 'Kazançlarınız, bahse girerek nakit yaptığınız çarpanda hesaplanır.',
+    'aero_rule7' => 'Her turun başlangıcından önce, muhtemelen adil rastgele sayı üretecimiz, düzlemin uçacağı çarpanı üretir.',
+    'aero_rule8' => 'Bir miktar seçin ve bahis yapmak için “BET” düğmesine basın.',
+    'aero_rule9' => 'Tur henüz başlamadıysa "İptal" düğmesine basarak BET\'i iptal edebilirsiniz.',
+    'aero_rule10' => 'BET miktarını değiştirmek için “-” ve “+” düğmelerini kullanarak bahis boyutunu ayarlayın. Alternatif olarak, önceden ayarlanmış değerleri kullanarak BET boyutunu seçebilir veya manuel olarak bir değer girebilirsiniz.',
+    'aero_rule11' => 'Aynı anda iki bahis yapabilirsiniz.',
+    'aero_rule12' => 'Kazançlarınızı ortadan kaldırmak için “Nakit Çıkışı” düğmesine basın. Kazanmanız, bahisinizin nakit çarpanı ile çarpılmasıdır.',
+    'aero_rule13' => 'Uçak uçmadan para kazanmazsanız bahisiniz kaybolur.',
+    'aero_rule14' => 'Otomatik oynatmaya başlamadan önce oynamak istediğiniz bahis boyutunu seçin. Bunun nasıl yapılacağı BET & Cash Out bölümünde açıklanmaktadır.',
+    'aero_rule15' => 'Otomatik Play, “Otomatik Oynatma” düğmesine basarak BET panelindeki “Otomatik” sekmesinden etkinleştirilir.',
+    'aero_rule16' => 'Otomatik Cash Out, BET panelindeki “Otomatik” sekmesinden edinilebilir. Aktivasyondan sonra, girilen çarpana ulaştığında bahisiniz otomatik olarak para kazanır.',
+    'aero_rule17' => '"Dur" düğmesine basarak otomatik oynatmayı durdurabilirsiniz.',
+    'aero_rule18' => 'Bu panelde mevcut turda yapılan tüm bahisleri görebilirsiniz.',
+    'aero_rule19' => '“Bahislerim” panelinde tüm bahislerinizi görebilir ve bilgileri nakit olarak çıkarabilirsiniz.',
+    'aero_rule20' => '“Üst” panelde oyun istatistikleri bulunur. Kazançlara miktara göre göz atabilir veya çarpan nakit parayı ve en büyük yuvarlak çarpanları görebilirsiniz.',
+    'aero_rule21' => 'Her tur için çarpan, muhtemelen adil bir algoritma ile üretilir ve tamamen şeffaf ve% 100 adildir.',
+    'aero_rule22' => 'Oyuncuya genel teorik dönüş%97\'dir. Bu, ortalama olarak, her 100 tur için, her 3 turun uçağın turun en başında uçmasıyla bittiği anlamına gelir.',
+    'aero_rule23' => 'Oyun seslerini açık veya kapatmak için “sesler” anahtarını değiştirin.',
+    'aero_rule24' => 'Oyun müziğini açmak veya kapatmak için “müzik” anahtarını değiştirin.',
+    'aero_rule25' => 'Oyunun ayrıntılı kurallarını görüntülemek için “nasıl oynanır” tuşuna basın.',
+    'aero_rule26' => 'Bahis etkin olduğunda internet bağlantısı kesintiye uğratılırsa, oyun mevcut çarpanla otomatik olarak para kazanır ve kazanan tutar bakiyenize eklenir.',
+    'aero_rule27' => 'Oyun donanımının/yazılımının arızalanması durumunda, etkilenen tüm oyun bahisleri ve ödemeleri geçersiz kılar ve etkilenen tüm bahisler iade edilir.',
+    'aero_rule28' => 'Daha Fazla Ayrıntılar',
+    'aero_rule29' => 'Oyun Fonksiyonları - Bet ve Cash Out',
+    'aero_rule30' => 'Oyun Fonksiyonları - Otomatik Oyun ve Otomatik Nakit Out',
+    'aero_rule31' => 'Oyun Fonksiyonları - Canlı Bahisler ve İstatistikler',
+    'aero_rule32' => 'Oyun Fonksiyonları - Randomizasyon',
+    'aero_rule33' => 'Oyun İşlevleri - Oyuncuya Dönüş',
+    'aero_rule34' => 'Oyun İşlevleri - Oyun Menüsü',
+    'aero_rule35' => 'Oyun Fonksiyonları - Diğer',
+
+    'all_moonbets_count' => 'Toplam Bahisler',
+
+    'moon_prev_round_btn' => 'Önceki tur',
+);
