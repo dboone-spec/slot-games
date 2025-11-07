@@ -1,0 +1,13 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Zhavoronkov",
+            "email": "dimaz.lark@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
